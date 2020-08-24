@@ -45,6 +45,14 @@ IEEE Access, 2019.
 
 <a name="datasets"></a>
 ## Datasets
+The following datasets have been regularly used in the context of multi-task learning:
+
+- [NYUDv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
+- [PASCAL](https://github.com/facebookresearch/astmt)
+- [Taskonomy](https://github.com/StanfordVL/taskonomy)
+- [KITTI](http://www.cvlibs.net/datasets/kitti/)
+- [SUN RGB-D](https://rgbd.cs.princeton.edu/)
 
 
 <a name="architectures"></a>
