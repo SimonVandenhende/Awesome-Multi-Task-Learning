@@ -1,4 +1,4 @@
-# Awsome-Multi-Task-Learning
+# Awesome-Multi-Task-Learning
 This page contains a list of papers and projects on multi-task learning. 
 
 ## Table of Contents:
