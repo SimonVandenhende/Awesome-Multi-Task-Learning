@@ -112,6 +112,14 @@ CVPR, 2017.
 *[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](https://arxiv.org/abs/1911.12423)*,
 ArXiv, 2019.
 
+- <a name="bragman2019stochastic"></a> Bragman, F. J., Tanno, R., Ourselin, S., Alexander, D. C., & Cardoso, J.
+*[Stochastic filter groups for multi-task cnns: Learning specialist and generalist convolution kernels](https://openaccess.thecvf.com/content_ICCV_2019/html/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.html)*,
+ICCV, 2019.
+
+- <a name="newell2019feature"></a> Newell, A., Jiang, L., Wang, C., Li, L. J., & Deng, J. 
+*[Feature partitioning for efficient multi-task architectures](https://arxiv.org/abs/1908.04339)*,
+ ArXiv, 2019.
+
 - <a name="vandenhende2019branched"></a> Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L. 
 *[Branched multi-task networks: deciding what layers to share](https://arxiv.org/abs/1904.02920)*, 
 BMVC, 2020. 
@@ -128,6 +136,10 @@ ICML, 2020.
 *[Multi-task learning using uncertainty to weigh losses for scene geometry and semantics](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html)*,
 CVPR, 2018. 
 
+- <a name="zhao2018modulation"></a> Zhao, X., Li, H., Shen, X., Liang, X., & Wu, Y. 
+*[A modulation module for multi-task learning with applications in image retrieval](https://openaccess.thecvf.com/content_ECCV_2018/html/Xiangyun_Zhao_A_Modulation_Module_ECCV_2018_paper.html)*,
+ECCV, 2018.
+
 - <a name="chen2018gradnorm"></a> Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. 
 *[Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks](http://proceedings.mlr.press/v80/chen18a.html)*,
 ICML, 2018.
@@ -135,6 +147,10 @@ ICML, 2018.
 - <a name="sener2018mgda"></a> Sener, O., & Koltun, V. 
 *[Multi-task learning as multi-objective optimization](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization)*,
 NIPS, 2018. [[PyTorch](https://github.com/intel-isl/MultiObjectiveOptimization)]
+
+- <a name="liu2017adversarial"></a> Liu, P., Qiu, X., & Huang, X.
+*[Adversarial multi-task learning for text classification](https://www.aclweb.org/anthology/P17-1001.pdf),
+ACL, 2018.
 
 - <a name="guo2018dynamic"></a> Guo, M., Haque, A., Huang, D. A., Yeung, S., & Fei-Fei, L.
 *[Dynamic task prioritization for multitask learning](https://openaccess.thecvf.com/content_ECCV_2018/html/Michelle_Guo_Focus_on_the_ECCV_2018_paper.html)*,
@@ -147,3 +163,5 @@ ArXiv, 2019.
 - <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
 *[Gradient surgery for multi-task learning](https://arxiv.org/abs/2001.06782)*,
 ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
+
+
