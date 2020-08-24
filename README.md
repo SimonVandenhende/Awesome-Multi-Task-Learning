@@ -83,6 +83,22 @@ CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 <a name="nas"></a>
 ## Neural Architecture Search
 
+- <a name="lu2017fully"></a> Lu, Y., Kumar, A., Zhai, S., Cheng, Y., Javidi, T., & Feris, R.
+*[Fully-adaptive feature sharing in multi-task networks with applications in person attribute classification.](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Fully-Adaptive_Feature_Sharing_CVPR_2017_paper.html)*,
+CVPR, 2017. 
+
+- <a name="sun2019adashare"></a> Sun, X., Panda, R., & Feris, R. 
+*[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning.](https://arxiv.org/abs/1911.12423)*,
+ArXiv, 2019.
+
+- <a name="vandenhende2019branched"></a> Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L. 
+*[Branched multi-task networks: deciding what layers to share.](https://arxiv.org/abs/1904.02920)*, 
+BMVC, 2020. 
+
+- <a name="guo2020learning"></a> Guo, P., Lee, C. Y., & Ulbricht, D. 
+*[Learning to Branch for Multi-Task Learning.](https://proceedings.icml.cc/static/paper_files/icml/2020/5057-Paper.pdf)*, 
+ICML, 2020. 
+
 
 <a name="optimization"></a>
 ## Optimization strategies
