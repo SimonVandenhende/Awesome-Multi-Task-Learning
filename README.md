@@ -26,7 +26,7 @@ ArXiv, 2017.
 *[A survey on multi-task learning](https://arxiv.org/abs/1707.08114)*, 
 ArXiv, 2017.
 
-- < a name="gong2019comparison"></a> Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., ... & Elibol, O. H. 
+- <a name="gong2019comparison"></a> Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., ... & Elibol, O. H. 
 *[A comparison of loss weighting strategies for multi task learning in deep neural networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8848395)*,
 IEEE Access, 2019. 
 
