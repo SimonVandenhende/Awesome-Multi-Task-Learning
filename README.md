@@ -41,6 +41,7 @@ IEEE Access, 2019.
 
 <a name="encoder"></a>
 ### Encoder-based architectures
+
 - <a name="misra2016cross"></a> Misra, I., Shrivastava, A., Gupta, A., & Hebert, M.
 *[Cross-stitch networks for multi-task learning](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.html)*,
 CVPR, 2016. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
@@ -64,6 +65,10 @@ CVPR, 2018.
 - <a name="zhang2018jtrl"></a> Zhang, Z., Cui, Z., Xu, C., Jie, Z., Li, X., & Yang, J.
 *[Joint task-recursive learning for semantic segmentation and depth estimation](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenyu_Zhang_Joint_Task-Recursive_Learning_ECCV_2018_paper.html)*,
 ECCV, 2018.
+
+- <a name="ruder2019sluice"></a> Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A. 
+*[Latent multi-task architecture learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/4410)*,
+AAAI, 2019.
 
 - <a name="zhang2019papnet"></a> Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J. 
 *[Pattern-affinitive propagation across depth, surface normal and semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.html)*,
@@ -115,6 +120,10 @@ ICML, 2018.
 *[Multi-task learning as multi-objective optimization.](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization)*,
 NIPS, 2018. [[PyTorch](https://github.com/intel-isl/MultiObjectiveOptimization)]
 
+- <a name="guo2018dynamic"></a> Guo, M., Haque, A., Huang, D. A., Yeung, S., & Fei-Fei, L.
+*[Dynamic task prioritization for multitask learning.](https://openaccess.thecvf.com/content_ECCV_2018/html/Michelle_Guo_Focus_on_the_ECCV_2018_paper.html)*,
+ECCV, 2018. 
+
 - <a name="suteu2019orthogonal"></a> Suteu, M., & Guo, Y. 
 *[Regularizing Deep Multi-Task Networks using Orthogonal Gradients.](https://arxiv.org/abs/1912.06844)*,
 ArXiv, 2019. 
@@ -122,7 +131,6 @@ ArXiv, 2019.
 - <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
 *[Gradient surgery for multi-task learning.](https://arxiv.org/abs/2001.06782)*,
 ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
-
 
 
 
