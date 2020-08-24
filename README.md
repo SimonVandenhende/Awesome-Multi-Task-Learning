@@ -3,7 +3,7 @@ This page contains a list of papers and projects on multi-task learning.
 
 ## Table of Contents:
 
-- [Survey paper](#survey) 
+- [Survey papers](#survey) 
 - [Datasets](#datasets)
 - [Architectures](#architectures)
   - [Encoder-based](#encoder)
@@ -14,7 +14,7 @@ This page contains a list of papers and projects on multi-task learning.
 
 
 <a name="survey"></a>
-## Survey paper
+## Survey papers
 - <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L. 
 *[Revisiting Multi-Task Learning in the Deep Learning Era](https://arxiv.org/abs/2004.13379)*,
 ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
@@ -67,41 +67,57 @@ CVPR, 2018.
 ECCV, 2018.
 
 - <a name="ruder2019sluice"></a> Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A. 
-*[Latent multi-task architecture learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/4410)*,
+*[Latent multi-task architecture learning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4410)*,
 AAAI, 2019.
 
 - <a name="zhang2019papnet"></a> Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J. 
 *[Pattern-affinitive propagation across depth, surface normal and semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.html)*,
 CVPR, 2019.
 
-- <a name="vandenhende2020mti"> Vandenhende, S., Georgoulis, S., & Van Gool, L. 
+- <a name="vandenhende2020mti"></a> Vandenhende, S., Georgoulis, S., & Van Gool, L. 
 *[MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](https://arxiv.org/abs/2001.06902)*,
 ECCV, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
   
 <a name="otherarchitectures"></a>
 ### Other
 
+- <a name="yang2016deep"></a> Yang, Y., & Hospedales, T. 
+*[Deep multi-task representation learning: A tensor factorisation approach](https://arxiv.org/abs/1605.06391)*,
+ICLR, 2017.
+
+- <a name="rosenbaum2017routing"></a> Rosenbaum, C., Klinger, T., & Riemer, M.
+*[Routing networks: Adaptive selection of non-linear functions for multi-task learning](https://arxiv.org/abs/1711.01239)*,
+ArXiv, 2017.
+
+- <a name="long2017multilinear"></a> Long, M., Cao, Z., Wang, J., & Philip, S. Y. 
+*[Learning multiple tasks with multilinear relationship networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks)*,
+NIPS, 2017.
+
+- <a name="mallya2018piggy"></a> Mallya, A., Davis, D., & Lazebnik, S.
+*[Piggyback: Adapting a single network to multiple tasks by learning to mask weights](https://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html)*,
+ECCV, 2018.
+
 - <a name="maninis2019astmt"></a> Maninis, K. K., Radosavovic, I., & Kokkinos, I. 
-*[Attentive single-tasking of multiple tasks.](https://arxiv.org/abs/1904.08918)*,
+*[Attentive single-tasking of multiple tasks](https://arxiv.org/abs/1904.08918)*,
 CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 
 <a name="nas"></a>
 ## Neural Architecture Search
 
 - <a name="lu2017fully"></a> Lu, Y., Kumar, A., Zhai, S., Cheng, Y., Javidi, T., & Feris, R.
-*[Fully-adaptive feature sharing in multi-task networks with applications in person attribute classification.](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Fully-Adaptive_Feature_Sharing_CVPR_2017_paper.html)*,
+*[Fully-adaptive feature sharing in multi-task networks with applications in person attribute classification](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Fully-Adaptive_Feature_Sharing_CVPR_2017_paper.html)*,
 CVPR, 2017. 
 
 - <a name="sun2019adashare"></a> Sun, X., Panda, R., & Feris, R. 
-*[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning.](https://arxiv.org/abs/1911.12423)*,
+*[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](https://arxiv.org/abs/1911.12423)*,
 ArXiv, 2019.
 
 - <a name="vandenhende2019branched"></a> Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L. 
-*[Branched multi-task networks: deciding what layers to share.](https://arxiv.org/abs/1904.02920)*, 
+*[Branched multi-task networks: deciding what layers to share](https://arxiv.org/abs/1904.02920)*, 
 BMVC, 2020. 
 
 - <a name="guo2020learning"></a> Guo, P., Lee, C. Y., & Ulbricht, D. 
-*[Learning to Branch for Multi-Task Learning.](https://proceedings.icml.cc/static/paper_files/icml/2020/5057-Paper.pdf)*, 
+*[Learning to Branch for Multi-Task Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5057-Paper.pdf)*, 
 ICML, 2020. 
 
 
@@ -109,28 +125,25 @@ ICML, 2020.
 ## Optimization strategies
 
 - <a name="kendall2018uncertainty"></a> Kendall, A., Gal, Y., & Cipolla, R. 
-*[Multi-task learning using uncertainty to weigh losses for scene geometry and semantics.](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html)*,
+*[Multi-task learning using uncertainty to weigh losses for scene geometry and semantics](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html)*,
 CVPR, 2018. 
 
 - <a name="chen2018gradnorm"></a> Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. 
-*[Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks.](http://proceedings.mlr.press/v80/chen18a.html)*,
+*[Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks](http://proceedings.mlr.press/v80/chen18a.html)*,
 ICML, 2018.
 
 - <a name="sener2018mgda"></a> Sener, O., & Koltun, V. 
-*[Multi-task learning as multi-objective optimization.](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization)*,
+*[Multi-task learning as multi-objective optimization](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization)*,
 NIPS, 2018. [[PyTorch](https://github.com/intel-isl/MultiObjectiveOptimization)]
 
 - <a name="guo2018dynamic"></a> Guo, M., Haque, A., Huang, D. A., Yeung, S., & Fei-Fei, L.
-*[Dynamic task prioritization for multitask learning.](https://openaccess.thecvf.com/content_ECCV_2018/html/Michelle_Guo_Focus_on_the_ECCV_2018_paper.html)*,
+*[Dynamic task prioritization for multitask learning](https://openaccess.thecvf.com/content_ECCV_2018/html/Michelle_Guo_Focus_on_the_ECCV_2018_paper.html)*,
 ECCV, 2018. 
 
 - <a name="suteu2019orthogonal"></a> Suteu, M., & Guo, Y. 
-*[Regularizing Deep Multi-Task Networks using Orthogonal Gradients.](https://arxiv.org/abs/1912.06844)*,
+*[Regularizing Deep Multi-Task Networks using Orthogonal Gradients](https://arxiv.org/abs/1912.06844)*,
 ArXiv, 2019. 
 
 - <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
-*[Gradient surgery for multi-task learning.](https://arxiv.org/abs/2001.06782)*,
+*[Gradient surgery for multi-task learning](https://arxiv.org/abs/2001.06782)*,
 ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
-
-
-
