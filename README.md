@@ -86,7 +86,7 @@ ECCV, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-P
 *[Deep multi-task representation learning: A tensor factorisation approach](https://arxiv.org/abs/1605.06391)*,
 ICLR, 2017.
 
-- <a name="kokkinos2017uber"</a> Kokkinos, Iasonas.
+- <a name="kokkinos2017uber"></a> Kokkinos, Iasonas.
 *[Ubernet: Training a universal convolutional neural network for low-, mid-, and high-level vision using diverse datasets and limited memory](https://openaccess.thecvf.com/content_cvpr_2017/html/Kokkinos_Ubernet_Training_a_CVPR_2017_paper.html)*,
 CVPR, 2017.
 
