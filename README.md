@@ -11,6 +11,7 @@ This page contains a list of papers and projects on multi-task learning.
   - [Other](#otherarchitectures)
 - [Neural Architecture Search](#nas)
 - [Optimization strategies](#optimization)
+- [Transfer learning](#transfer)
 
 
 <a name="survey"></a>
@@ -169,3 +170,5 @@ ArXiv, 2019.
 ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
 
 
+<a name="transfer"></a>
+## Transfer learning
