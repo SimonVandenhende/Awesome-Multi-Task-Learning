@@ -16,7 +16,20 @@ This page contains a list of papers and projects on multi-task learning.
 ## Survey paper
 - <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L. 
 *[Revisiting Multi-Task Learning in the Deep Learning Era](https://arxiv.org/abs/2004.13379)*,
-arXiv preprint arXiv:2004.13379, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
+ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
+
+- <a name="ruder2017survey"></a> Ruder, S. 
+*[An overview of multi-task learning in deep neural networks](https://arxiv.org/abs/1706.05098)*,
+ArXiv, 2017. 
+
+- <a name="zhang2017survey"></a> Zhang, Y.
+*[A survey on multi-task learning](https://arxiv.org/abs/1707.08114)*, 
+ArXiv, 2017.
+
+- < a name="gong2019comparison"></a> Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., ... & Elibol, O. H. 
+*[A comparison of loss weighting strategies for multi task learning in deep neural networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8848395)*,
+IEEE Access, 2019. 
+
 
 <a name="datasets"></a>
 ## Datasets
@@ -68,6 +81,26 @@ CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 
 <a name="optimization"></a>
 ## Optimization strategies
+
+- <a name="kendall2018uncertainty"></a> Kendall, A., Gal, Y., & Cipolla, R. 
+*[Multi-task learning using uncertainty to weigh losses for scene geometry and semantics.](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html)*,
+CVPR, 2018. 
+
+- <a name="chen2018gradnorm"></a> Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. 
+*[Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks.](http://proceedings.mlr.press/v80/chen18a.html)*,
+ICML, 2018.
+
+- <a name="sener2018mgda"></a> Sener, O., & Koltun, V. 
+*[Multi-task learning as multi-objective optimization.](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization)*,
+NIPS, 2018. [[PyTorch](https://github.com/intel-isl/MultiObjectiveOptimization)]
+
+- <a name="suteu2019orthogonal"></a> Suteu, M., & Guo, Y. 
+*[Regularizing Deep Multi-Task Networks using Orthogonal Gradients.](https://arxiv.org/abs/1912.06844)*,
+ArXiv, 2019. 
+
+- <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
+*[Gradient surgery for multi-task learning.](https://arxiv.org/abs/2001.06782)*,
+ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
 
 
 
