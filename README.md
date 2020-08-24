@@ -1,5 +1,14 @@
 # Awesome Multi-Task Learning
-This page contains a list of papers and projects on multi-task learning. 
+This page contains a list of papers and projects on multi-task learning. If interested, please consider reading our recent survey paper:
+
+```
+@article{vandenhende2020revisiting,
+  title={Revisiting Multi-Task Learning in the Deep Learning Era},
+  author={Vandenhende, Simon and Georgoulis, Stamatios and Proesmans, Marc and Dai, Dengxin and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2004.13379},
+  year={2020}
+}
+```
 
 ## Table of Contents:
 
