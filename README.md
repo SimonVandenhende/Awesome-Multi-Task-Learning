@@ -9,6 +9,7 @@ This page contains a list of papers and projects on multi-task learning.
   - [Encoder-based](#encoder)
   - [Decoder-based](#decoder)
   - [Other](#otherarchitectures)
+- [Neural Architecture Search](#nas)
 - [Optimization strategies](#optimization)
 
 
@@ -79,6 +80,10 @@ ECCV, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-P
 *[Attentive single-tasking of multiple tasks.](https://arxiv.org/abs/1904.08918)*,
 CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 
+<a name="nas"></a>
+## Neural Architecture Search
+
+
 <a name="optimization"></a>
 ## Optimization strategies
 
@@ -101,6 +106,7 @@ ArXiv, 2019.
 - <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
 *[Gradient surgery for multi-task learning.](https://arxiv.org/abs/2001.06782)*,
 ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
+
 
 
 
