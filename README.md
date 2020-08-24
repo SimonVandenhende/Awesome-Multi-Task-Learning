@@ -181,10 +181,10 @@ CVPR, 2018.
 *[Taskonomy: Disentangling task transfer learning](https://openaccess.thecvf.com/content_cvpr_2018/html/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.html)*,
 CVPR, 2018. [[PyTorch](https://github.com/StanfordVL/taskonomy)]
 
-- <a name="dwivedi2019rsa"></a> Dwivedi, K., & Roig, G.
-*[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
-CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
-
 - <a name="achille2019task2vec"></a> Achille, A., Lam, M., Tewari, R., Ravichandran, A., Maji, S., Fowlkes, C. C., ... & Perona, P.
 *[Task2vec: Task embedding for meta-learning](https://openaccess.thecvf.com/content_ICCV_2019/html/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.html)*,
 ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
+
+- <a name="dwivedi2019rsa"></a> Dwivedi, K., & Roig, G.
+*[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
+CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
