@@ -1,5 +1,6 @@
 # Awesome Multi-Task Learning
-This page contains a list of papers and projects on multi-task learning. If interested, please consider reading our recent survey paper:
+This page contains a list of papers and projects on multi-task learning. Feel free to create a pull request if you wish to add any additional content. 
+If you are interested, please consider reading our recent survey paper.
 
 ```
 @article{vandenhende2020revisiting,
