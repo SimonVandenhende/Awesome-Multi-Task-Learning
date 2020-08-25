@@ -172,7 +172,7 @@ ICML, 2018.
 NIPS, 2018. [[PyTorch](https://github.com/intel-isl/MultiObjectiveOptimization)]
 
 - <a name="liu2017adversarial"></a> Liu, P., Qiu, X., & Huang, X.
-*[Adversarial multi-task learning for text classification](https://www.aclweb.org/anthology/P17-1001.pdf),
+*[Adversarial multi-task learning for text classification](https://www.aclweb.org/anthology/P17-1001.pdf)*,
 ACL, 2018.
 
 - <a name="guo2018dynamic"></a> Guo, M., Haque, A., Huang, D. A., Yeung, S., & Fei-Fei, L.
