@@ -112,13 +112,13 @@ ICLR, 2017.
 *[Ubernet: Training a universal convolutional neural network for low-, mid-, and high-level vision using diverse datasets and limited memory](https://openaccess.thecvf.com/content_cvpr_2017/html/Kokkinos_Ubernet_Training_a_CVPR_2017_paper.html)*,
 CVPR, 2017.
 
-- <a name="rosenbaum2017routing"></a> Rosenbaum, C., Klinger, T., & Riemer, M.
-*[Routing networks: Adaptive selection of non-linear functions for multi-task learning](https://arxiv.org/abs/1711.01239)*,
-ICLR, 2018.
-
 - <a name="long2017multilinear"></a> Long, M., Cao, Z., Wang, J., & Philip, S. Y. 
 *[Learning multiple tasks with multilinear relationship networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks)*,
 NIPS, 2017.
+
+- <a name="rosenbaum2017routing"></a> Rosenbaum, C., Klinger, T., & Riemer, M.
+*[Routing networks: Adaptive selection of non-linear functions for multi-task learning](https://arxiv.org/abs/1711.01239)*,
+ICLR, 2018.
 
 - <a name="mallya2018piggy"></a> Mallya, A., Davis, D., & Lazebnik, S.
 *[Piggyback: Adapting a single network to multiple tasks by learning to mask weights](https://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html)*,
