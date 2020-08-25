@@ -155,6 +155,9 @@ BMVC, 2020.
 *[Learning to Branch for Multi-Task Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5057-Paper.pdf)*, 
 ICML, 2020. 
 
+- <a name="standley2019tasks"></a> Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S. 
+*[Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf)*,
+ICML, 2020.
 
 <a name="optimization"></a>
 ## Optimization strategies
