@@ -1,5 +1,6 @@
 # Awesome Multi-Task Learning
-This page contains a list of papers and projects on multi-task learning. Feel free to create a pull request if you wish to add any additional content. 
+This page contains a list of papers and projects on multi-task learning that have been used to tackle visual recognition tasks.
+Feel free to create a pull request if you wish to add any additional content. 
 If you are interested, please consider reading our recent survey paper.
 
 ```
