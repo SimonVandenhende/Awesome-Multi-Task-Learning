@@ -110,7 +110,7 @@ CVPR, 2017.
 
 - <a name="rosenbaum2017routing"></a> Rosenbaum, C., Klinger, T., & Riemer, M.
 *[Routing networks: Adaptive selection of non-linear functions for multi-task learning](https://arxiv.org/abs/1711.01239)*,
-ArXiv, 2017.
+ICLR, 2018.
 
 - <a name="long2017multilinear"></a> Long, M., Cao, Z., Wang, J., & Philip, S. Y. 
 *[Learning multiple tasks with multilinear relationship networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks)*,
