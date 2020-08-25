@@ -93,6 +93,10 @@ AAAI, 2019.
 *[Pattern-affinitive propagation across depth, surface normal and semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.html)*,
 CVPR, 2019.
 
+- <a name="zhou2020structure"></a> Zhou, L., Cui, Z., Xu, C., Zhang, Z., Wang, C., Zhang, T., & Yang, J.
+*[Pattern-Structure Diffusion for Multi-Task Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Pattern-Structure_Diffusion_for_Multi-Task_Learning_CVPR_2020_paper.html)*,
+CVPR, 2020.
+
 - <a name="vandenhende2020mti"></a> Vandenhende, S., Georgoulis, S., & Van Gool, L. 
 *[MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](https://arxiv.org/abs/2001.06902)*,
 ECCV, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
