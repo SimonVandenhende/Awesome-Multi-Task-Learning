@@ -103,6 +103,7 @@ CVPR, 2020.
 ECCV, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
   
 <a name="otherarchitectures"></a>
+
 ### Other
 
 - <a name="yang2016deep"></a> Yang, Y., & Hospedales, T. 
@@ -113,9 +114,17 @@ ICLR, 2017.
 *[Ubernet: Training a universal convolutional neural network for low-, mid-, and high-level vision using diverse datasets and limited memory](https://openaccess.thecvf.com/content_cvpr_2017/html/Kokkinos_Ubernet_Training_a_CVPR_2017_paper.html)*,
 CVPR, 2017.
 
+- <a name="rebuffi2017learning"></a> Rebuffi, S. A., Bilen, H., & Vedaldi, A. 
+*[Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045)*,
+NIPS, 2017.
+
 - <a name="long2017multilinear"></a> Long, M., Cao, Z., Wang, J., & Philip, S. Y. 
 *[Learning multiple tasks with multilinear relationship networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks)*,
 NIPS, 2017.
+
+- <a name="meyerson2017beyond"></a> Meyerson, E., & Miikkulainen, R. 
+*[Beyond shared hierarchies: Deep multitask learning through soft layer ordering](https://arxiv.org/abs/1711.00108)*,
+ICLR, 2018.
 
 - <a name="rosenbaum2017routing"></a> Rosenbaum, C., Klinger, T., & Riemer, M.
 *[Routing networks: Adaptive selection of non-linear functions for multi-task learning](https://arxiv.org/abs/1711.01239)*,
@@ -125,6 +134,10 @@ ICLR, 2018.
 *[Piggyback: Adapting a single network to multiple tasks by learning to mask weights](https://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html)*,
 ECCV, 2018.
 
+- <a name="rebuffi2018efficient"></a> Rebuffi, S. A., Bilen, H., & Vedaldi, A.
+*[Efficient parametrization of multi-domain deep neural networks](https://arxiv.org/abs/1803.10082)*,
+CVPR, 2018.
+
 - <a name="maninis2019astmt"></a> Maninis, K. K., Radosavovic, I., & Kokkinos, I. 
 *[Attentive single-tasking of multiple tasks](https://arxiv.org/abs/1904.08918)*,
 CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
@@ -132,6 +145,7 @@ CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 - <a name="kanakis2020reparameterizing"></a> Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.
 *[Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](https://arxiv.org/abs/2007.12540)*,
 ECCV, 2020.
+
 
 <a name="nas"></a>
 ## Neural Architecture Search
@@ -194,6 +208,10 @@ ACL, 2018.
 - <a name="guo2018dynamic"></a> Guo, M., Haque, A., Huang, D. A., Yeung, S., & Fei-Fei, L.
 *[Dynamic task prioritization for multitask learning](https://openaccess.thecvf.com/content_ECCV_2018/html/Michelle_Guo_Focus_on_the_ECCV_2018_paper.html)*,
 ECCV, 2018. 
+
+- <a name="lin2019pareto"></a> Lin, X., Zhen, H. L., Li, Z., Zhang, Q. F., & Kwong, S.
+*[Pareto multi-task learning](https://papers.nips.cc/paper/9374-pareto-multi-task-learning)*,
+NIPS, 2019.
 
 - <a name="suteu2019orthogonal"></a> Suteu, M., & Guo, Y. 
 *[Regularizing Deep Multi-Task Networks using Orthogonal Gradients](https://arxiv.org/abs/1912.06844)*,
