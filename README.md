@@ -129,6 +129,10 @@ ECCV, 2018.
 *[Attentive single-tasking of multiple tasks](https://arxiv.org/abs/1904.08918)*,
 CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 
+- <a name="kanakis2020reparameterizing"></a> Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.
+*[Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](https://arxiv.org/abs/2007.12540)*,
+ECCV, 2020.
+
 <a name="nas"></a>
 ## Neural Architecture Search
 
@@ -148,10 +152,6 @@ ICCV, 2019.
 *[Feature partitioning for efficient multi-task architectures](https://arxiv.org/abs/1908.04339)*,
  ArXiv, 2019.
 
-- <a name="vandenhende2019branched"></a> Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L. 
-*[Branched multi-task networks: deciding what layers to share](https://arxiv.org/abs/1904.02920)*, 
-BMVC, 2020. 
-
 - <a name="guo2020learning"></a> Guo, P., Lee, C. Y., & Ulbricht, D. 
 *[Learning to Branch for Multi-Task Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5057-Paper.pdf)*, 
 ICML, 2020. 
@@ -159,6 +159,14 @@ ICML, 2020.
 - <a name="standley2019tasks"></a> Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S. 
 *[Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf)*,
 ICML, 2020.
+
+- <a name="vandenhende2019branched"></a> Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L. 
+*[Branched multi-task networks: deciding what layers to share](https://arxiv.org/abs/1904.02920)*, 
+BMVC, 2020. 
+
+- <a name="bruggeman2020auomated"></a> Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.
+*[Automated Search for Resource-Efficient Branched Multi-Task Networks](https://arxiv.org/abs/2008.10292)*,
+BMVC, 2020.
 
 <a name="optimization"></a>
 ## Optimization strategies
