@@ -54,7 +54,7 @@ The following datasets have been regularly used in the context of multi-task lea
 - [Taskonomy](https://github.com/StanfordVL/taskonomy)
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
 - [SUN RGB-D](https://rgbd.cs.princeton.edu/)
-
+- [BDD100K](https://arxiv.org/pdf/1805.04687.pdf)
 
 <a name="architectures"></a>
 ## Architectures
@@ -240,3 +240,10 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 - <a name="dwivedi2019rsa"></a> Dwivedi, K., & Roig, G.
 *[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
+
+<a name="robustness"></a>
+## Adversarial robustness
+- <a name="maomultitask2020"></a> Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C.
+*[Multitask Learning Strengthens Adversarial Robustness](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf)*,
+ECCV, 2020. [[PyTorch](https://github.com/columbia/MTRobust)]
+
