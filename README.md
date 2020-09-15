@@ -242,8 +242,13 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
 
 <a name="robustness"></a>
-## Adversarial robustness
+## Robustness
 - <a name="maomultitask2020"></a> Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C.
 *[Multitask Learning Strengthens Adversarial Robustness](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf)*,
 ECCV, 2020. [[PyTorch](https://github.com/columbia/MTRobust)]
+
+- <a name="zamirrobust2020"></a> Zamir, A. R., Sax, A., Cheerla, N., Suri, R., Cao, Z., Malik, J., & Guibas, L. J. 
+*[Robust Learning Through Cross-Task Consistency](https://openaccess.thecvf.com/content_CVPR_2020/html/Zamir_Robust_Learning_Through_Cross-Task_Consistency_CVPR_2020_paper.html)*,
+CVPR, 2020. 
+
 
