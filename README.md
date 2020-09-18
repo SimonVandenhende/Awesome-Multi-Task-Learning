@@ -1,15 +1,11 @@
 # Awesome Multi-Task Learning
-This page contains a list of papers on multi-task learning for computer vision.  
-Please create a pull request if you wish to add anything. If you are interested, consider reading our recent survey paper.
+This page contains a list of papers on multi-task learning for computer vision. 
+Please create a pull request if you wish to add anything. 
+If you are interested, consider reading our recent survey paper.
 
-```
-@article{vandenhende2020revisiting,
-  title={Multi-Task Learning for Dense Prediction Tasks: A Survey},
-  author={Vandenhende, Simon and Georgoulis, Stamatios and Van Gansbeke, Wouter and Proesmans, Marc and Dai, Dengxin and Van Gool, Luc},
-  journal={arXiv preprint arXiv:2004.13379},
-  year={2020}
-}
-```
+> [**Multi-Task Learning for Dense Prediction Tasks: A Survey**](https://arxiv.org/abs/2004.13379)
+>
+> [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g), Marc Proesmans, Dengxin Dai and Luc Van Gool.
 
 ## Table of Contents:
 
