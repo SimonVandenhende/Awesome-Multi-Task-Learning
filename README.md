@@ -1,7 +1,6 @@
 # Awesome Multi-Task Learning
-This page contains a list of papers on multi-task learning in the deep learning era. 
-Please create a pull request if you wish to add anything. 
-If you are interested, consider reading our recent survey paper (an update will follow soon).
+This page contains a list of papers on multi-task learning for computer vision.  
+Please create a pull request if you wish to add anything. If you are interested, consider reading our recent survey paper.
 
 ```
 @article{vandenhende2020revisiting,
