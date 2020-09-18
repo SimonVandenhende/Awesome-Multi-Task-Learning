@@ -5,8 +5,8 @@ If you are interested, consider reading our recent survey paper (an update will 
 
 ```
 @article{vandenhende2020revisiting,
-  title={Revisiting Multi-Task Learning in the Deep Learning Era},
-  author={Vandenhende, Simon and Georgoulis, Stamatios and Proesmans, Marc and Dai, Dengxin and Van Gool, Luc},
+  title={Multi-Task Learning for Dense Prediction Tasks: A Survey},
+  author={Vandenhende, Simon and Georgoulis, Stamatios and Van Gansbeke, Wouter and Proesmans, Marc and Dai, Dengxin and Van Gool, Luc},
   journal={arXiv preprint arXiv:2004.13379},
   year={2020}
 }
@@ -28,7 +28,7 @@ If you are interested, consider reading our recent survey paper (an update will 
 <a name="survey"></a>
 ## Survey papers
 - <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L. 
-*[Revisiting Multi-Task Learning in the Deep Learning Era](https://arxiv.org/abs/2004.13379)*,
+*[Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379)*,
 ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
 
 - <a name="ruder2017survey"></a> Ruder, S. 
