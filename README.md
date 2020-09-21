@@ -5,7 +5,7 @@ If you are interested, consider reading our recent survey paper.
 
 > [**Multi-Task Learning for Dense Prediction Tasks: A Survey**](https://arxiv.org/abs/2004.13379)
 >
-> [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g), Marc Proesmans, Dengxin Dai and Luc Van Gool.
+> [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g), Wouter Van Gansbeke, Marc Proesmans, Dengxin Dai and Luc Van Gool.
 
 ## Table of Contents:
 
@@ -22,7 +22,7 @@ If you are interested, consider reading our recent survey paper.
 
 <a name="survey"></a>
 ## Survey papers
-- <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L. 
+- <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. 
 *[Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379)*,
 ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
 
