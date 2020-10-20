@@ -224,6 +224,10 @@ NIPS, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
 *[Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout](https://arxiv.org/pdf/2010.06808.pdf)*,
 NIPS, 2020.
 
+- <a name="li2020knowledge"></a> Li, W. H., & Bilen, H. 
+*[Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf)*,
+ArXiv, 2020. [[PyTorch](https://github.com/WeiHongLee/KD-MTL)]
+
 
 <a name="transfer"></a>
 ## Transfer learning
