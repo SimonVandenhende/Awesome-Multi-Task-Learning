@@ -141,6 +141,10 @@ CVPR, 2019. [[PyTorch](https://github.com/facebookresearch/astmt)]
 *[Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](https://arxiv.org/abs/2007.12540)*,
 ECCV, 2020.
 
+- <a name="wang2020multi"></a> Wang, Q., Ke, J., Greaves, J., Chu, G., Bender, G., Sbaiz, L., Go, A., Howard, A., Yang, F., Yang, M.H. & Gilbert, J.
+*[Multi-path Neural Networks for On-device Multi-domain Visual Classification](https://arxiv.org/pdf/2010.04904.pdf)*,
+ArXiv, 2020.
+
 
 <a name="nas"></a>
 ## Neural Architecture Search
@@ -148,10 +152,6 @@ ECCV, 2020.
 - <a name="lu2017fully"></a> Lu, Y., Kumar, A., Zhai, S., Cheng, Y., Javidi, T., & Feris, R.
 *[Fully-adaptive feature sharing in multi-task networks with applications in person attribute classification](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Fully-Adaptive_Feature_Sharing_CVPR_2017_paper.html)*,
 CVPR, 2017. 
-
-- <a name="sun2019adashare"></a> Sun, X., Panda, R., & Feris, R. 
-*[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](https://arxiv.org/abs/1911.12423)*,
-ArXiv, 2019.
 
 - <a name="bragman2019stochastic"></a> Bragman, F. J., Tanno, R., Ourselin, S., Alexander, D. C., & Cardoso, J.
 *[Stochastic filter groups for multi-task cnns: Learning specialist and generalist convolution kernels](https://openaccess.thecvf.com/content_ICCV_2019/html/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.html)*,
@@ -176,6 +176,10 @@ BMVC, 2020.
 - <a name="bruggeman2020auomated"></a> Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.
 *[Automated Search for Resource-Efficient Branched Multi-Task Networks](https://arxiv.org/abs/2008.10292)*,
 BMVC, 2020.
+
+- <a name="sun2019adashare"></a> Sun, X., Panda, R., & Feris, R. 
+*[AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](https://arxiv.org/abs/1911.12423)*,
+NIPS, 2020.
 
 <a name="optimization"></a>
 ## Optimization strategies
@@ -214,7 +218,11 @@ ArXiv, 2019.
 
 - <a name="yu2020surgery"></a> Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C. 
 *[Gradient surgery for multi-task learning](https://arxiv.org/abs/2001.06782)*,
-ArXiv, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
+NIPS, 2020. [[Tensorflow](https://github.com/tianheyu927/PCGrad)]
+
+- <a name="chen2020sign"></a> Chen, Z., Ngiam, J., Huang, Y., Luong, T., Kretzschmar, H., Chai, Y., & Anguelov, D. 
+*[Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout](https://arxiv.org/pdf/2010.06808.pdf)*,
+NIPS, 2020.
 
 
 <a name="transfer"></a>
