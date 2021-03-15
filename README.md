@@ -23,8 +23,8 @@ If you are interested, consider reading our recent survey paper.
 <a name="survey"></a>
 ## Survey papers
 - <a name="vandenhende2020revisiting"></a> Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. 
-*[Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379)*,
-ArXiv, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
+*[Multi-Task Learning for Dense Prediction Tasks: A Survey](https://ieeexplore.ieee.org/abstract/document/9336293)*,
+T-PAMI, 2020. [[PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
 
 - <a name="ruder2017survey"></a> Ruder, S. 
 *[An overview of multi-task learning in deep neural networks](https://arxiv.org/abs/1706.05098)*,
