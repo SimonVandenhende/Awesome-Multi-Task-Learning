@@ -10,7 +10,7 @@ If you are interested, consider reading our recent survey paper.
 
 ## Workshop
 
-I am organizing a workshop on multi-task learning at ICCV 2021. For more information, visit our [website](https://sites.google.com/view/deepmtlworkshop/home).
+I am organizing a workshop on multi-task learning at ICCV 2021. More information can be found [here](https://sites.google.com/view/deepmtlworkshop/home).
 
 ## Table of Contents:
 
