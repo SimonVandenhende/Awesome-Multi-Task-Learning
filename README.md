@@ -7,6 +7,11 @@ If you are interested, consider reading our recent survey paper.
 >
 > [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g), Wouter Van Gansbeke, Marc Proesmans, Dengxin Dai and Luc Van Gool.
 
+
+## Workshop
+
+I am organizing a workshop on multi-task learning at ICCV 2021. For more information, visit our [website](https://sites.google.com/view/deepmtlworkshop/home).
+
 ## Table of Contents:
 
 - [Survey papers](#survey) 
