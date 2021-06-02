@@ -10,7 +10,10 @@ If you are interested, consider reading our recent survey paper.
 
 ## Workshop
 
-I am organizing a workshop on multi-task learning at ICCV 2021. More information can be found [here](https://sites.google.com/view/deepmtlworkshop/home).
+:loudspeaker: :loudspeaker: :loudspeaker: We are organizing a **workshop** on multi-task learning at ICCV 2021. More information can be found on our [website](https://sites.google.com/view/deepmtlworkshop/home).
+- April 10: We have confirmed eight excellent speakers, including Rich Caruana (Microsoft), Chelsea Finn (Stanford), Judy Hoffman (Georgia Tech), Iasonas Kokkinos (University College London), Andrew Rabinovich (Headroom inc.), Raquel Urtasun (University of Toronto), Luc Van Gool (Ku Leuven & ETH Zurich) and Amir Zamir (EPFL).
+- June 2: Submission [website](https://cmt3.research.microsoft.com/DeepMTL2021/) is now live.   
+
 
 ## Table of Contents:
 
