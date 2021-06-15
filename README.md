@@ -240,6 +240,9 @@ ECCV-Workshop, 2020. [[PyTorch](https://github.com/WeiHongLee/KD-MTL)]
 
 - <a name="borse2021inverseform"></a> Borse, S., Wang, Y., Zhang, Y., & Porikli, F. *[InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Borse_InverseForm_A_Loss_Function_for_Structured_Boundary-Aware_Segmentation_CVPR_2021_paper.pdf)*, CVPR 2021.
 
+- <a name="vasu2021instance"></a> Vasu P., Saxena S., Tuzel O. *[Instance-Level Task Parameters: A Robust Multi-task Weighting Framework](https://arxiv.org/pdf/2106.06129.pdf)*, ArXiv, 2021.    
+     
+     
 <a name="transfer"></a>
 ## Transfer learning & Domain Adaptation
 
