@@ -266,4 +266,4 @@ ECCV, 2020. [[PyTorch](https://github.com/columbia/MTRobust)]
 *[Robust Learning Through Cross-Task Consistency](https://openaccess.thecvf.com/content_CVPR_2020/html/Zamir_Robust_Learning_Through_Cross-Task_Consistency_CVPR_2020_paper.html)*,
 CVPR, 2020. 
 
-
+- <a name="georgescu2020anomaly"></a> Georgescu, M. I., Barbalau, A., Ionescu, R. T., Khan, F. S., Popescu, M., & Shah, M. *[Anomaly Detection in Video via Self-Supervised and Multi-Task Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf)*, CVPR, 2021.
