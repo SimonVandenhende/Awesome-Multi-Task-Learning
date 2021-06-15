@@ -151,7 +151,7 @@ ECCV, 2020.
 
 - <a name="wang2020multi"></a> Wang, Q., Ke, J., Greaves, J., Chu, G., Bender, G., Sbaiz, L., Go, A., Howard, A., Yang, F., Yang, M.H. & Gilbert, J.
 *[Multi-path Neural Networks for On-device Multi-domain Visual Classification](https://arxiv.org/pdf/2010.04904.pdf)*,
-ArXiv, 2020.
+WACV, 2021.
 
 
 <a name="nas"></a>
