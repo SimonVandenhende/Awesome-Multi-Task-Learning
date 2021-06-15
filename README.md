@@ -259,7 +259,7 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 *[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
 
-- <a name="saha2021learning"></a> Saha, S., Obukhov, A., Paudel, D. P., Kanakis, M., Chen, Y., Georgoulis, S., & Van Gool, L. *[Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830), ArXiv, 2021.
+- <a name="saha2021learning"></a> Saha, S., Obukhov, A., Paudel, D. P., Kanakis, M., Chen, Y., Georgoulis, S., & Van Gool, L. *[Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/papers/Saha_Learning_To_Relate_Depth_and_Semantics_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)*, CVPR, 2021.
 
 <a name="robustness"></a>
 ## Robustness
