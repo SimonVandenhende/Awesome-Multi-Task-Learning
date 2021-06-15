@@ -236,6 +236,7 @@ NIPS, 2020.
 *[Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf)*,
 ECCV-Workshop, 2020. [[PyTorch](https://github.com/WeiHongLee/KD-MTL)]
 
+- <a name="borse2021inverseform"></a> Borse, S., Wang, Y., Zhang, Y., & Porikli, F. *[InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Borse_InverseForm_A_Loss_Function_for_Structured_Boundary-Aware_Segmentation_CVPR_2021_paper.pdf)*, CVPR 2021.
 
 <a name="transfer"></a>
 ## Transfer learning
