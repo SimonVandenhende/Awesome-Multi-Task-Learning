@@ -153,6 +153,8 @@ ECCV, 2020.
 *[Multi-path Neural Networks for On-device Multi-domain Visual Classification](https://arxiv.org/pdf/2010.04904.pdf)*,
 WACV, 2021.
 
+- <a name="bruggemann2021exploring"></a> Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L. *[Exploring Relational Context for Multi-Task Dense Prediction](https://arxiv.org/abs/2104.13874)*, ArXiv, 2021.
+
 
 <a name="nas"></a>
 ## Neural Architecture Search
@@ -239,7 +241,7 @@ ECCV-Workshop, 2020. [[PyTorch](https://github.com/WeiHongLee/KD-MTL)]
 - <a name="borse2021inverseform"></a> Borse, S., Wang, Y., Zhang, Y., & Porikli, F. *[InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Borse_InverseForm_A_Loss_Function_for_Structured_Boundary-Aware_Segmentation_CVPR_2021_paper.pdf)*, CVPR 2021.
 
 <a name="transfer"></a>
-## Transfer learning
+## Transfer learning & Domain Adaptation
 
 - <a name="cui2018large"></a> Cui, Y., Song, Y., Sun, C., Howard, A., & Belongie, S.
 *[Large scale fine-grained categorization and domain-specific transfer learning](https://openaccess.thecvf.com/content_cvpr_2018/html/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.html)*,
@@ -256,6 +258,8 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 - <a name="dwivedi2019rsa"></a> Dwivedi, K., & Roig, G.
 *[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
+
+- <a name="saha2021learning"></a> Saha, S., Obukhov, A., Paudel, D. P., Kanakis, M., Chen, Y., Georgoulis, S., & Van Gool, L. *[Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830), ArXiv, 2021.
 
 <a name="robustness"></a>
 ## Robustness
