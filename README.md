@@ -155,6 +155,9 @@ WACV, 2021.
 
 - <a name="bruggemann2021exploring"></a> Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L. *[Exploring Relational Context for Multi-Task Dense Prediction](https://arxiv.org/abs/2104.13874)*, ArXiv, 2021.
 
+- <a name="li2021universal"></a> Li, W. H., Liu, X., & Bilen, H. *[Universal Representation Learning from Multiple Domains for Few-shot Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Universal_Representation_Learning_From_Multiple_Domains_for_Few-Shot_Classification_ICCV_2021_paper.pdf)*, ICCV, 2021.
+
+- <a name="li2021learning"></a> Li, W. H., Liu, X., & Bilen, H. *[Learning Multiple Dense Prediction Tasks from Partially Annotated Data](https://arxiv.org/pdf/2111.14893.pdf)*, ArXiv, 2021.
 
 <a name="nas"></a>
 ## Neural Architecture Search
