@@ -80,6 +80,10 @@ CVPR, 2019. [[PyTorch](https://github.com/lorenmt/mtan)]
 <a name="decoder"></a>
 ### Decoder-based architectures
 
+- <a name="bilen2016multi"></a> Bilen, H., Vedaldi, A.
+*[Integrated perception with recurrent multi-task neural networks](https://proceedings.neurips.cc/paper/2016/file/06409663226af2f3114485aa4e0a23b4-Paper.pdf)*,
+NeurIPS, 2016.
+
 - <a name="xu2018pad"></a> Xu, D., Ouyang, W., Wang, X., & Sebe, N.
 *[Pad-net: Multi-tasks guided prediction-and-distillation network for simultaneous depth estimation and scene parsing](https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_PAD-Net_Multi-Tasks_Guided_CVPR_2018_paper.html)*,
 CVPR, 2018.  
