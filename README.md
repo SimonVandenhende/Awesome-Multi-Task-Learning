@@ -281,3 +281,7 @@ ECCV, 2020. [[PyTorch](https://github.com/columbia/MTRobust)]
 CVPR, 2020. 
 
 - <a name="georgescu2020anomaly"></a> Georgescu, M. I., Barbalau, A., Ionescu, R. T., Khan, F. S., Popescu, M., & Shah, M. *[Anomaly Detection in Video via Self-Supervised and Multi-Task Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf)*, CVPR, 2021.
+
+<a name="other"></a>
+## Other
+- <a name="steerable"></a> Eftekhar, A.,Sax, A., Malik, J., Zamir, A. *[Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets From 3D Scans](https://openaccess.thecvf.com/content/ICCV2021/html/Eftekhar_Omnidata_A_Scalable_Pipeline_for_Making_Multi-Task_Mid-Level_Vision_Datasets_ICCV_2021_paper.html)*, ICCV, 2021.
